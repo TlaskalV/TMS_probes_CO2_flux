@@ -1,0 +1,15 @@
+number,Datalogger ID, approx. close tree,closest_young_tree_20200826,orientation against circle,downloaded_20180702,downloaded_20191011,retrieved_20200826,20200826,downloaded_20200827,retrieved_20200923,downloaded_20200924
+1,TMS 94174109,114020_2,34-0155,ie start in NNW part of circle,x,x,x,,x,,
+2,TMS 94174107,,34-0333,,x,x,x,out of soil,"time shifted by 5 hrs, see time of data download",,
+3,TMS 94174108,,34-0350,NNE part of circle,x,x,x,out of soil,x,,
+4,TMS 94174110,,34-2173,NE,x,x,overlooked,,,x,x
+5,TMS 94174114,,34-0014,,x,,overlooked,,,x,x
+6,TMS 94174117,101406_1,34-1632,NW,x,,overlooked,,,x,x
+7,TMS 94174106,,34-1880,SW,x,x,x,,x,,
+8,TMS 94174105,,34-2123,,x,x,left on site instead of dry middle probe,,20200826,,
+9,TMS 94174104,,33-0635,SE,,x,x,,x,,
+10,TMS 94174103,101458_2,33-0676,SSE,x,x,x,,x,,
+11,TMS 94174102,,33-2007,,x,x,x,,x,,
+12,TMS 94174101,,,SSW,,,not found,,,,
+wet,TMS 93164188,,33-0953,,x,x,left on site,,20200826,,
+dry,,,151,,,,not found,,,,
